@@ -1,2 +1,2 @@
-# xdge
+# XDGE
 XD Game Engine
